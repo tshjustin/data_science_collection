@@ -4,7 +4,7 @@ Small collection of ds-projects mainly for the testing and benchmarking of tradi
 
 
 #### List of algorithms tested 
-1. Ordinary least squares 
+1. Linear Regression 
 
 2. Logistic regression 
 
